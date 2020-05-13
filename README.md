@@ -100,18 +100,63 @@ Installation
 Contribute
 ----------
 ​
-- Issue Tracker: We will not have an issue tracker, please feel free to submit any issues by contacting : interncptwex025@capaciti.org.za .
+Ryan Griffiths: About us, mission, vision
+Siyabonga Goqoza: FAQs and images
+Sisamkele Gabula: contact us form
 ​
-- Source Code: github.com/Alexander-Fortuin/Mzamomtsha2
+Esona Dyakalashe: Made the basic layout for the events page, color scheme, and information.
+Alexander Fortuin: Made all the event holders and the animations. Helped with the making the nav bar more aesthetically pleasing. 
+​
+Christopher Eaby: nav bar for all pages, compiling of all pages.
+Shanice Gygenaar: Bottom half of Main page and copyright with contact us.
+​
+Issue Tracker
+-------------
+​
+We will not have an issue tracker, please feel free to submit any issues by contacting : interncptwex025@capaciti.org.za.
+​
+Source Code
+-----------
+​
+All source code can be accessed via this link :
+​
+github.com/$project/$project
+​
+​
+Coding conventions
+------------------
+​
+- Files are organized in three seperate folders. All html files are stored in the main directory. Styling sheets are stored in a folder named "styles". All scripting is stored in a folder named "scripts".
+- All files are named based on their intended purpose. Home page is named Index.html.
+- All code is neatly organized and contains comments as to what they do.
+- All classes named are named in a way that can be easily understood.
+​
+Citations
+---------
+​
+www.w3schools.com
+www.coolers.co
+https://5cab479ea53ef.site123.me/
+www.browserstack.com 
+The Capaciti LMS
+www.netlify.com
+www.webdesign.tutsplus.com
+www.wireframe.cc
+www.stackoverflow.com
 ​
 Support
 -------
 ​
 If you are having issues, please let us know.
-​
-We have a mailing list located at: interncptwex025@capaciti.org.za
+We have a mailing list located at: interncptwex025@capaciti.org.za.
 ​
 License
 -------
 ​
 The project is licensed under the CC BY-NC-ND license.
+(Any one who uses the product has to credit the authors. Non-commercial. No changes can be made)
+​
+Previous Versions
+-----------------
+​
+The page has kept the same layout throughout production, only a few minor changes have occured, including adding a slide show of the school's campus, information about the principal, and the school motto to the main page.
