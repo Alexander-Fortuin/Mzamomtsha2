@@ -157,6 +157,39 @@ footer {
 .main img {
    border-radius: 10%;
 }
+
+
+/* School info */
+.school_info {
+  display: flex;  
+  justify-content: center;
+  flex-wrap: wrap;
+}
+/* About the school principal */
+
+.more_info {
+  display: flex;
+  flex: 55%;
+  flex-wrap: wrap;
+  border: #b4cded solid 3px;
+}
+.principal {
+  flex: 60%;
+}
+.principal_info {}
+.more_info img {
+  width: 200px;
+  padding: 5px;
+}
+/* Motto */
+.school_motto {
+  margin-top: 10px;
+  flex: 25%;
+  margin-right: 30px;
+  border: #b4cded solid 3px;
+}
+.emblem {}
+.motto {margin-top: 5px;}
 /* ---------------------------------------------------------------------------------------------------- */
 * About us page Content */
 
@@ -196,7 +229,8 @@ footer {
  
 .about p{margin-top: 30px}
 
-/* FAQs */
+
+/* FAQs */
 
 
 
@@ -416,7 +450,10 @@ article p {
       margin-top: 5px;
       padding: 40px;
     }
-     
+    .school_motto {
+      margin-top: 0px;
+      margin-right: 30px;
+    }
    /* --------------------------------- */
    /* Events Page only */
    /* Size of article and images */
