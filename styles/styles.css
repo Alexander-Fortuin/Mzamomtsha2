@@ -176,7 +176,6 @@ footer {
 .principal {
   flex: 60%;
 }
-.principal_info {}
 .more_info img {
   width: 200px;
   padding: 5px;
@@ -188,7 +187,6 @@ footer {
   margin-right: 30px;
   border: #b4cded solid 3px;
 }
-.emblem {}
 .motto {margin-top: 5px;}
 /* ---------------------------------------------------------------------------------------------------- */
 * About us page Content */
